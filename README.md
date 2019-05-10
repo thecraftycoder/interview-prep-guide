@@ -26,8 +26,6 @@
 - interest in implementing security best practices
 - accessibility or inclusive design
 
-We work collectively, allowing us to accomplish far more as a  team than could be accomplished individually.
-
 ## tech stack
 - ember.js (front end)
 - clojure.js (middleware & services
